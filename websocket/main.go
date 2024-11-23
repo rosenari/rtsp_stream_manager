@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"rtsp/handlers"
+	"websocket/handlers"
 )
 
 func main() {

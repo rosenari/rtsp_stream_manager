@@ -1,3 +1,3 @@
-module rtsp_stream_manager
+module rtsp
 
 go 1.23.3
